@@ -9,5 +9,5 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: adam.ralph.hall@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I also have a degree in music and currently work ushering on broadway. I love to create in many different ways.
+- ⚡ Fun fact: I also have a degree in music and currently work ushering on broadway. Computer Science isn't the only way I create.
 
