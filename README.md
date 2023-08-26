@@ -15,3 +15,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.ralph.hall@gmail.com)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logoColor=white)](https://www.adamralphhall.com)
 
+-
+![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=losecontrol4)
+
+
