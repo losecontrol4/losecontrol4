@@ -12,6 +12,6 @@
 - ⚡ Fun fact: I also have a degree in music and currently work ushering on broadway. Computer Science isn't the only way I create.
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-hall-a76ba01bb/)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adam.ralph.hall@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adam.ralph.hall@gmail.com)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.adamralphhall.com)
 
